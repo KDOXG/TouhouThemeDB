@@ -221,6 +221,12 @@ class Title {
 		"mcd_10_07" => "th155_36",
 		"mcd_10_09" => "th17_02",
 		"mcd_10_10" => "th16_13",
+		"mcd_11_03" => "th18_14",
+		"mcd_11_04" => "th17_08",
+		"mcd_11_06" => "th20_09",
+		"mcd_11_07" => "th18_03",
+		"mcd_11_08" => "th17_10",
+		"mcd_11_10" => "th17_13",
 	);
 
 	public static function getGroup(): MessageGroup {
